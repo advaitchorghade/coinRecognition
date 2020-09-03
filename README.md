@@ -2,4 +2,4 @@
 
 This program is underway.
 
-I plan to use Opencv initially to remove as much useless information from a picture as possible. 
+I plan to use Python Opencv initially to remove as much useless information from a picture as possible. 
